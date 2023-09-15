@@ -1,6 +1,7 @@
 import unittest
 from selenium import webdriver
 
+
 class TestHouseJet(unittest.TestCase):
 
     def setUp(self):
@@ -18,6 +19,7 @@ class TestHouseJet(unittest.TestCase):
 
         # Test if the title is correct
         self.assertIn("HouseJet - HouseJet", title)
+
 
 if __name__ == "__main__":
     unittest.main()

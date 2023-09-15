@@ -1,0 +1,48 @@
+1694744133567	geckodriver	INFO	Listening on 127.0.0.1:62719
+1694744136648	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62720" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\rafi_\\AppData\\Local\\Temp\\rust_mozprofileaS3kSE"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1694744136967	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1694744137040	Marionette	INFO	Listening on port 62734
+WebDriver BiDi listening on ws://127.0.0.1:62720
+Read port: 62734
+1694744137264	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:62720/devtools/browser/60a7b429-6d3a-4416-ae70-8c8fbe239749
+console.error: (new TypeError("NetworkError when attempting to fetch resource.", ""))
+SourceActor threw an exception: Error: Failed to fetch https://www.google.com/recaptcha/api.js. Code 2153390067.
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:596:16
+onStopRequest@resource://gre/modules/NetUtil.sys.mjs:124:18
+Line: 596, column: 16
+console.error: (new Error("Failed to fetch https://www.google.com/recaptcha/api.js. Code 2153390067.", "resource://devtools/shared/DevToolsUtils.js", 596))
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 596: Error: Failed to fetch https://www.google.com/recaptcha/api.js. Code 2153390067.
+SourceActor threw an exception: Error: Failed to fetch https://housejet.com/. Code 2153390067.
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:596:16
+onStopRequest@resource://gre/modules/NetUtil.sys.mjs:124:18
+Line: 596, column: 16
+console.error: (new Error("Failed to fetch https://housejet.com/. Code 2153390067.", "resource://devtools/shared/DevToolsUtils.js", 596))
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 596: Error: Failed to fetch https://housejet.com/. Code 2153390067.
+console.warn: LoginHelper(Main): "Couldn't parse specified uri [System Principal] with error NS_ERROR_MALFORMED_URI"
+console.warn: LoginHelper(Main): "Couldn't parse specified uri [System Principal] with error NS_ERROR_MALFORMED_URI"
+JavaScript error: https://housejet.com/_nuxt/85439b8.js, line 2: Error: Network Error
+console.error: (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://housejet.com."
+console.error: (new TypeError("NetworkError when attempting to fetch resource.", ""))
+JavaScript error: https://firefox-source-docs.mozilla.org/devtools-user/accessibility_inspector/, line 30: ReferenceError: mermaid is not defined
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 573: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 573: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 573: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1694747842186	Marionette	INFO	Stopped listening on port 62734
+Dynamically enable window occlusion 1
+rt" "63745" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\rafi_\\AppData\\Local\\Temp\\rust_mozprofileeDKNjL"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1694744527145	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1694744527220	Marionette	INFO	Listening on port 63754
+WebDriver BiDi listening on ws://127.0.0.1:63745
+Read port: 63754
+1694744527446	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:63745/devtools/browser/2642f77d-65ad-4160-b563-e21fb5cc0acf
+1694744572409	Marionette	INFO	Stopped listening on port 63754
+Dynamically enable window occlusion 1
