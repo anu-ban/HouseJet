@@ -4,25 +4,11 @@ from selenium import webdriver
 from selenium.webdriver import Keys
 from selenium.webdriver.common.by import By
 
-# Initialize the web driver
-driver = webdriver.Chrome()
+#method to search 65807 zipcode
+def search_zip(driver):
+    search_stuff = driver.find_element(By.ID, "googleAutocomplete")
+    search_stuff.send_keys('65807')
+    search_stuff.send_keys(Keys.ENTER)
 
-# Navigate to the HouseJet website
+print("{Done with zip check}")
 
-
-# Find the element with the XPath selector ".//a[@href='/search']"
-# search_button = driver.find_element(By.XPATH(".//a[@href='/search']"))
-
-driver.get("https://housejet.com/Search")
-
-search_stuff = driver.find_element(By.ID,"googleAutocomplete")
-search_stuff.send_keys('65807')
-search_stuff.send_keys(Keys.ENTER)
-
-time.sleep(15)
-
-# Click the element
-
-
-# Close the web driver
-driver.quit()
