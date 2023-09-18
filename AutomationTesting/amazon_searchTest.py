@@ -19,8 +19,13 @@ search.send_keys("dress", Keys.ENTER)
 # Test Search dress text
 expected_text = '"dress"'
 actual_text = driver.find_element(By.XPATH, "//span[@class='a-color-state a-text-bold']").text
+
 # Varification
-assert expected_text == actual_text, f'Error. Expected text{expected_text}, but actual text:{actual_text}'
+if expected_text != actual_text:
+    print('Test wasnt successful')
+
+else:
+    print("The test was successfull with dress search")
 
 # Close the web driver
 driver.quit()

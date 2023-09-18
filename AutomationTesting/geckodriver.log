@@ -3084,3 +3084,57 @@ Xf@https://maps.googleapis.com/maps-api-v3/api/js/54/5/map.js:118:273
 
 JavaScript error: https://housejet.com/_nuxt/1616d2a.js, line 1: TypeError: can't assign to property "latitude" on "65807": not an object
 Dynamically enable window occlusion 1
+1695014051312	geckodriver	INFO	Listening on 127.0.0.1:50388
+1695014054388	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50389" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\rafi_\\AppData\\Local\\Temp\\rust_mozprofilefWQM0Z"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1695014054757	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1695014054843	Marionette	INFO	Listening on port 50400
+WebDriver BiDi listening on ws://127.0.0.1:50389
+Read port: 50400
+1695014055110	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:50389/devtools/browser/defd39eb-20a5-44f0-b29b-e557fcb65aff
+JavaScript error: https://housejet.com/_nuxt/1616d2a.js, line 1: TypeError: can't assign to property "latitude" on "65807": not an object
+1695014134831	geckodriver	INFO	Listening on 127.0.0.1:50547
+1695014137890	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50548" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\rafi_\\AppData\\Local\\Temp\\rust_mozprofilel7le0i"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1695014138241	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1695014138324	Marionette	INFO	Listening on port 50556
+WebDriver BiDi listening on ws://127.0.0.1:50548
+Read port: 50556
+1695014138511	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:50548/devtools/browser/de67e570-54dc-4ee0-bb85-51efae16b0cf
+JavaScript error: https://housejet.com/_nuxt/1616d2a.js, line 1: TypeError: can't assign to property "latitude" on "65807": not an object
+1695014163758	Marionette	INFO	Stopped listening on port 50556
+Dynamically enable window occlusion 1
+1695055586297	geckodriver	INFO	Listening on 127.0.0.1:51655
+1695055589389	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51656" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\rafi_\\AppData\\Local\\Temp\\rust_mozprofilet1wpCL"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1695055589747	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1695055589825	Marionette	INFO	Listening on port 51665
+WebDriver BiDi listening on ws://127.0.0.1:51656
+Read port: 51665
+1695055589996	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:51656/devtools/browser/f6674297-277b-4e0a-b47f-57cf027bd513
+JavaScript error: https://housejet.com/_nuxt/1616d2a.js, line 1: TypeError: can't assign to property "latitude" on "65804": not an object
+1695055617029	Marionette	INFO	Stopped listening on port 51665
+Dynamically enable window occlusion 1
+1695055753897	geckodriver	INFO	Listening on 127.0.0.1:51917
+1695055756954	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51918" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\rafi_\\AppData\\Local\\Temp\\rust_mozprofileftDiH8"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1695055757506	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1695055757578	Marionette	INFO	Listening on port 51925
+WebDriver BiDi listening on ws://127.0.0.1:51918
+Read port: 51925
+1695055757795	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:51918/devtools/browser/74824aa9-49b7-407d-bd5f-432096246c4c
+JavaScript error: https://housejet.com/_nuxt/1616d2a.js, line 1: TypeError: can't assign to property "latitude" on "65804": not an object
+1695055782925	Marionette	INFO	Stopped listening on port 51925
+Dynamically enable window occlusion 1
