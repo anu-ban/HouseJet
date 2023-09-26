@@ -15,7 +15,7 @@ pf = Petfinder(key=apiKey, secret=secretKey)
 # Get a list of all the cats that are available for adoption
 
 
-# Get the list of cats available for adoption, for 3 pages
+# Get the list of cats available for adoption, for 3 pages 50 cats per page
 cats=[]
 for page in range(1,4):
   cats.extend(pf.animals(animal_type='cat',pages=page,results_per_page=50,location='MO',status='adoptable')['animals'])
