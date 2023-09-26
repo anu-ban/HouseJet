@@ -11,7 +11,7 @@ with open("perfinderSecretKey.txt") as file:
   secretKey = file.read().strip()
 
 pf = Petfinder(key=apiKey, secret=secretKey)
-
+#cats
 # Get a list of all the cats that are available for adoption
 
 
