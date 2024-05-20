@@ -1,0 +1,11 @@
+{
+    "name": "rafi/property-search",
+    "description": "A simple property search application using PHP and MVC",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/",
+            "Core\\": "core/"
+        }
+    }
+}

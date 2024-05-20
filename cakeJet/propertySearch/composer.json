@@ -1,0 +1,13 @@
+{
+    "name": "rafi/property-search",
+    "description": "MVC php Project",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "anu-ban",
+            "email": "42361403+anu-ban@users.noreply.github.com"
+        }
+    ],
+    "require": {}
+}

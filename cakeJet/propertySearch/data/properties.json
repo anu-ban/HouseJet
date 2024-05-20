@@ -1,0 +1,5 @@
+[
+    {"beds": 3, "baths": 2, "sqft": 1500, "price": 300000},
+    {"beds": 4, "baths": 3, "sqft": 2000, "price": 400000},
+    {"beds": 2, "baths": 1, "sqft": 900, "price": 200000}
+]
