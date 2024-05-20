@@ -3,7 +3,7 @@
 
 require_once '../vendor/autoload.php';
 
-use app\controllers\PropertiesController;
+use App\Controllers\PropertiesController;
 
 $controller = new PropertiesController();
 $controller->index();
