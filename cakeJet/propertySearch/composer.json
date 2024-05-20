@@ -9,5 +9,12 @@
             "email": "42361403+anu-ban@users.noreply.github.com"
         }
     ],
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/",
+            "Core\\": "core/"
+        }
+    },
+    
     "require": {}
 }
