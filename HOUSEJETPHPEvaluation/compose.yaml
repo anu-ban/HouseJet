@@ -1,0 +1,11 @@
+version: '3.6'
+
+services:
+  app:
+    container_name: PHPEvaluation
+    build:
+      context: '.'
+      dockerfile: Dockerfile
+    working_dir: '/app'
+    volumes:
+      - './:/app'
